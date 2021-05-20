@@ -5,6 +5,7 @@ releaseScripts/node_modules
 .DS_Store
 *.vsix
 .idea
+node_packages
 resources/maven-gav-reader/.settings
 resources/maven-gav-reader/.project
 resources/maven-gav-reader/.factorypath
